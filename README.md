@@ -28,8 +28,5 @@ Para executar o script, simplesmente execute o comando `python extractor.py` no 
 ## Contribuições
 Contribuições são bem-vindas! Para contribuir, faça um fork do repositório, crie uma branch para suas modificações e abra um pull request.
 
-## Licença
-Este projeto está sob a licença [INSIRA A LICENÇA AQUI]. Veja o arquivo LICENSE para mais detalhes.
-
 ## Contato
-Para dúvidas ou sugestões, entre em contato através de [INSIRA SEU EMAIL OU OUTRO MEIO DE CONTATO].
+Para dúvidas ou sugestões, entre em contato através do meu linkedin: https://www.linkedin.com/in/romario-jonas-veloso-427373175/.
